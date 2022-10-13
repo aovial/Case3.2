@@ -1,9 +1,0 @@
-IPython==8.2.0
-jupyter_client==6.1.12
-jupyter_core==4.9.2
-jupyterlab==3.3.2
-notebook==6.4.8
-streamlit>=1.10.0
-streamlit_folium==0.6.13
-jinja2
-branca
